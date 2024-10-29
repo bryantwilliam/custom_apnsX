@@ -16,7 +16,7 @@ dependencies:
   firebase_core: ^2.6.0
   firebase_messaging:
     git:
-      url: https://github.com/bryantwilliam/flutterfire.git
+      url: https://github.com/atomic-app/flutterfire.git
       path: packages/firebase_messaging/firebase_messaging
       ref: v14.2.2
 
